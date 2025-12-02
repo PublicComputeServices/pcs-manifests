@@ -1,0 +1,1 @@
+This repository contains encrypted manifests for PCS. They're automatically downloaded and fed into PCS for decryption by the Xposed module and updated by a script, no need to download them manually or make PRs or issues.
